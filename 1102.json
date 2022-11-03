@@ -27,7 +27,7 @@
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.iqiq.io/yangjiexin000/wd/main/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://raw.iqiq.io/yangjiexin000/wd/main/Biliych.json"},
-{"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/yangjiexin000/wd/main/Alist.json"},
+{"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/yangjiexin000/wd/main/alist.json"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key": "csp_Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://home.jundie.top:666/token.txt"},
 {"key": "csp_Yiso","name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
