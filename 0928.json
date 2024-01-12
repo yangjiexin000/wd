@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.iqiq.io/yangjiexin000/wd/main/jar/1104.jar",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yangjiexin000/wd/main/jar/1104.jar",
 
 "rules":[ {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]}, {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]}, {"host":"*","rule":["ysting.ysxs8.vip","m4a"]}, {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]}, {"host":"*","rule":["/m3u8.php","path="]}, {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}], 
 
